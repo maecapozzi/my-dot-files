@@ -1,0 +1,23 @@
+{
+  "workbench.colorTheme": "Material Theme Italicize",
+  "sublimeTextKeymap.promptV3Features": true,
+  "editor.multiCursorModifier": "ctrlCmd",
+  "editor.snippetSuggestions": "top",
+  "editor.formatOnPaste": true,
+  "window.zoomLevel": 0,
+  "eslint.enable": false,
+  "javascript.validate.enable": false,
+  "editor.tabSize": 2,
+  "standard.enable": true,
+  "editor.lineHeight": 22,
+  "editor.fontLigatures": true,
+  "explorer.decorations.badges": false,
+  "workbench.iconTheme": "eq-material-theme-icons",
+  "workbench.colorCustomizations": {},
+  "materialTheme.cache.workbench.settings": {
+    "accentPrevious": "Indigo"
+  },
+  "terminal.integrated.fontFamily": "Meslo LG M DZ for Powerline",
+  "workbench.panel.location": "bottom",
+  "files.autoSave": "on",
+}
